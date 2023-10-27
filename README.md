@@ -17,9 +17,9 @@ cd REMA
 
 Clone this repos  
 ```bash
-git clone git@github.com:gustavojm/lpc_chip_43xx.git  
-git clone https://github.com/gustavojm/CIAA_NXP_board.git  
-git clone https://github.com/gustavojm/rema_plusplus.git
+git clone https://github.com/GMalano-NASA/lpc_chip_43xx.git  
+git clone https://github.com/GMalano-NASA/CIAA_NXP_board.git  
+git clone https://github.com/GMalano-NASA/rema_plusplus.git
 ```
 Configure the project  
 ```bash
